@@ -585,7 +585,7 @@ const material2 = new _three.MeshBasicMaterial({
     color: "#4CAF50"
 });
 const material = new _three.MeshBasicMaterial({
-    color: 0x00ff00
+    color: 0x00ff01
 });
 const cube = new _three.Mesh(geometry, material);
 const cone = new _three.Mesh(geometry2, material2);
